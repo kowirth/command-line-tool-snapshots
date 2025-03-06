@@ -22,7 +22,7 @@ Prune Old Snapshots:
 Run Automated Tests:
 ./backuptool.py test
 
-Here are the SQL commands to query the database
+## Here are the SQL commands to query the database
 
 Open the database in SQLite:
 sqlite3 .backuptool.db
